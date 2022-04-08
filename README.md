@@ -1,0 +1,2 @@
+# prime_number_generator
+Project for checking a list of numbers, checking each of the positions and returning if the number is prime or not. By providing a maximum value in the function, the algorithm generates a list with the check whether the number is prime or not, starting at 0.
